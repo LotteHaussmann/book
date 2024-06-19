@@ -1,0 +1,8 @@
+# Preface {.unnumbered}
+
+
+
+Here you can read something about my PhD project.
+The @sec-intro provides an overview and introduction to my topic. @sec-paper1 deals with the unequal access to digital media. The next @sec-paper2 deals with the question of how loneliness and social isolation are connected. The last @sec-paper3 presents a short experiment. 
+
+You can also visit my [website](https://lottehaussmann.github.io/Website/).

@@ -1,0 +1,7 @@
+# Media usage, loneliness, and social isolation {#sec-paper2}
+
+------------------------------------------------------------------------
+
+Based on the first paper, the research question "How is media use among young people related to feelings of loneliness and social isolation?" will be addressed. The effect of media use can have a positive or negative influence. Media can also be a gateway to social contact and exchange among young people [@meshi2021; @subramanian2017]. Even if there is little or no contact with peers in the non-digital world, the individual does not have to feel lonely. If teenagers do not have the opportunity to interact in the digital or non-digital world, a high level of social isolation is created, which leads to severe negative consequences on well-being [@hämmig2019]. In addition, the connection between loneliness and social isolation should be considered and the actual number of friends should be controlled. With the help of the data from the Youth Survey Luxembourg and the media use profiles from the first paper, the research question will be examined. Possible methods would be linear or logical regression with mediators or moderator effects. Due to the cross-sectional design of the survey, self-selection effects and causality questions must be addressed.
+
+![Figure 2: Graphical overview of PhD research project: Second research step (Paper 2). Media usage, loneliness, and social isolation. Own illustration.](img/Folie2.JPG)

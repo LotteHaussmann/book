@@ -1,0 +1,39 @@
+project:
+  type: book
+
+book:
+  title: "Inequalities in access, use, and consequences of (social) media"
+  subtitle: "Social exclusion, social isolation, and loneliness"
+  author: "Charlotte Haussmann"
+  favicon: favicon.png
+  image: Folie3.png
+  date: "18/06/2024"
+  sharing: 
+    - twitter
+    - linkedin
+  downloads: 
+    - pdf
+    - epub
+  navbar: 
+      titel: "Social media and loneliness"
+      logo: favicon.png
+      background: dark
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - paper1.qmd
+    - paper2.qmd
+    - paper3.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
